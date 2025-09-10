@@ -1,0 +1,7 @@
+akun admin
+email : adminkampus1@gmail.com
+password : 1234
+
+akun pengguna
+email : lastrikasni@gmail.com
+password : lastri123
